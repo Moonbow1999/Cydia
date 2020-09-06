@@ -762,25 +762,25 @@ Tag: role::hacker
 Author: subdiox
 Name: sud0
 
-Package: com.synnyg.backupaz3pojie
-Version: 1.5
+Package: com.cydiami.youkuplus
+Version: 1.1-2
 Architecture: iphoneos-arm
-Maintainer: 他是个疯子 <409774743@qq.com>
-Depends: cn.yttxcs.backupaz3
-Filename: ./debs/com.synnyg.backupaz3pojie_1.5.deb
+Maintainer: 搬运 <TEst@qq.com>
+Depends: com.cydiami.youkuplus
+Filename: ./com.cydiami.youkuplus_1.1-2_iphoneos-arm.deb
 Size: 746
-MD5sum: 96aa02fa2f590ad6e8589134fb3791ed
-SHA1: 2a51e86ebca29c12e5818946744fbbf492d359af
-SHA256: e2b42886af42684892511d1e3ee5999afd682ad21479703ca4ca626f134715ad
+MD5sum: 
+SHA1: 
+SHA256: 
 Section: 其他
-Homepage: https://yttxcs.cn/depiction/html/com.synnyg.backupaz3pojie.html
-Description: backupaz3破解补丁
-Author: 他是个疯子 <409774743@qq.com>
-Depiction: https://yttxcs.cn/depiction/html/com.synnyg.backupaz3pojie.html
-Icon: https://yttxcs.cn/assets/com.synnyg.backupaz3pojie/icon.png
-Moderndepiction: https://yttxcs.cn/depiction/sileo/com.synnyg.backupaz3pojie.json
-Name: BackupAZ 3 「破解补丁」
-Sileodepiction: https://yttxcs.cn/depiction/sileo/com.synnyg.backupaz3pojie.json
+Homepage: 
+Description: 优酷视频去广告
+Author: 搬运 <Test@qq.com>
+Depiction: 
+Icon: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1599382945282&di=c3b71baedf0fc7e4cf6f3d5cba10641f&imgtype=0&src=http%3A%2F%2Fwww.wolonge.com%2Fuploads%2Fallimg%2F20200313%2F1-200313102235254.png
+Moderndepiction: 
+Name: 优酷视频去广告
+Sileodepiction: 
 
 Package: com.thuthuatjb.vcallers
 Version: 2.1
